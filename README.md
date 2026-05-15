@@ -6,5 +6,5 @@ This is a repository used to demonstrate foundational knowledge of Git and GitHu
 * Managing README files and licenses.
 * Understanding GitHub's collaborative interface.
 ## Tools Used
-*Git
-*GitHub
+* Git
+* GitHub
