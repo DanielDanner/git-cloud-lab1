@@ -8,4 +8,5 @@ This is a repository used to demonstrate foundational knowledge of Git and GitHu
 ## Tools Used
 * Git
 * GitHub
+
 **Note:** This repository is part of the training in DevOps
